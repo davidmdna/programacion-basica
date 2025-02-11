@@ -1,1 +1,1 @@
-print(''hola mundo'')
+# Problema 1: Imprimir "hola, mundo"
